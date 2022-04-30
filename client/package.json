@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "next": "12.1.5",
+    "next-auth": "^4.3.4",
+    "nodemailer": "^6.7.4",
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
